@@ -16,3 +16,5 @@ When you start configuring,you must have a git.
 
 Enjoy your vim!
 
+If you want to know more about the whole configuration,the original reference is here:
+http://www.cnblogs.com/ifantastic/p/3185665.html
